@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/new-cg-road/static/css/main.07149c7a.chunk.css",
+    "main.js": "/new-cg-road/static/js/main.1d4bf4a5.chunk.js",
+    "main.js.map": "/new-cg-road/static/js/main.1d4bf4a5.chunk.js.map",
+    "runtime-main.js": "/new-cg-road/static/js/runtime-main.6b2ac1bf.js",
+    "runtime-main.js.map": "/new-cg-road/static/js/runtime-main.6b2ac1bf.js.map",
+    "static/css/2.fe359a49.chunk.css": "/new-cg-road/static/css/2.fe359a49.chunk.css",
+    "static/js/2.0cef81f4.chunk.js": "/new-cg-road/static/js/2.0cef81f4.chunk.js",
+    "static/js/2.0cef81f4.chunk.js.map": "/new-cg-road/static/js/2.0cef81f4.chunk.js.map",
+    "static/js/3.f5d68cf9.chunk.js": "/new-cg-road/static/js/3.f5d68cf9.chunk.js",
+    "static/js/3.f5d68cf9.chunk.js.map": "/new-cg-road/static/js/3.f5d68cf9.chunk.js.map",
+    "index.html": "/new-cg-road/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/new-cg-road/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.07149c7a.chunk.css.map": "/new-cg-road/static/css/main.07149c7a.chunk.css.map",
+    "static/js/2.0cef81f4.chunk.js.LICENSE.txt": "/new-cg-road/static/js/2.0cef81f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b2ac1bf.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.0cef81f4.chunk.js",
+    "static/css/main.07149c7a.chunk.css",
+    "static/js/main.1d4bf4a5.chunk.js"
+  ]
+}
